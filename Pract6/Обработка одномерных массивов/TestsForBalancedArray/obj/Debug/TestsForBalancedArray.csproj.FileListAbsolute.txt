@@ -1,0 +1,20 @@
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\TestsForBalancedArray.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\TestsForBalancedArray.pdb
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Обработка одномерных массивов.exe
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Обработка одномерных массивов.pdb
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Обработка одномерных массивов.exe.config
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\obj\Debug\TestsForBalancedArray.csproj.AssemblyReference.cache
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\obj\Debug\TestsForBalancedArray.csproj.CoreCompileInputs.cache
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\obj\Debug\TestsForBalancedArray.csproj.CopyComplete
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\obj\Debug\TestsForBalancedArray.dll
+E:\_Work\_КиберАкадемия\13.01.2023 Костя формулы\Обработка одномерных массивов\Обработка одномерных массивов\TestsForBalancedArray\obj\Debug\TestsForBalancedArray.pdb
